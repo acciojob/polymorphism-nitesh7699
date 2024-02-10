@@ -11,8 +11,6 @@ public class Main {
 
     }
 
-
-    //mmm
     public static class Product{
 
         public int product(int x, int y) {
